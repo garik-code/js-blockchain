@@ -1,4 +1,4 @@
-JavaScript Blockchain
+JavaScript Blockchain `https://dev.to/sadarshannaiynar/blockchain-using-nodejs-and-socketio-5gbe`
 ===
 
 A simple implementation of blockchain using express and web sockets that allows you to add transaction and view the chain details.
